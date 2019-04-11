@@ -1,4 +1,4 @@
-#CSci 127 Teaching Staff
+#CSci 127 Teaching Staff at Hunter College
 #April 2019
 #A program that summarizes images, like koalastothemax
 #Modified by: Kristy Lau
@@ -33,11 +33,7 @@ def setRegion(region, r,g,b):
      np.average(region)
 
 
-
-######################################################################
-### DO NOT CHANGE ANYTHING BELOW THIS LINE                         ###
-######################################################################
-
+#Based on CSci 127 Teaching Staff Code
 
 def quarter(img2, levels):
      """
